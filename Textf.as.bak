@@ -1,0 +1,20 @@
+﻿/*package 
+{
+	import flash.display.MovieClip;
+	import flash.events.MouseEvent;
+
+	public class Textf extends MovieClip
+	{
+		public function Textf():void
+		{
+			this.addEventListener(MouseEvent.CLICK, zoneClicked);
+		}
+		private function zoneClicked(event:MouseEvent):void
+		{
+			
+			trace(this.modtext);
+
+		}
+	}
+
+}
